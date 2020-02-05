@@ -1,0 +1,55 @@
+.banner {
+    /*fondo naranja fuente negrilla */
+    background-color: #212625;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.interests {
+    /*fondo naranja fuente negrilla */
+    background-color: #F2F1DF;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.content {
+    /*fondo naranja fuente negrilla */
+    padding: 100px;
+}
+
+.normalText{
+    font-weight: lighter;
+    text-align: center;
+    padding: 20px;
+}
+
+.dates{
+    text-align: right;
+}
+
+.paragraph{
+    text-align: justify;
+}
+
+.image{
+    align: middle;
+}
+
+.bannerText{
+    font-size: 2vw;
+    text-align: center;
+}
+
+.cardText{
+    text-align: justify;
+}
+
+
+
+
