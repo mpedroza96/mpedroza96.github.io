@@ -1,0 +1,11 @@
+>El manejo de textos y espaciados es estéticamente agradable. 
+
+>A pesar de ser un detalle pequeño, que los enlaces se iluminen al pasarles el cursor encima le brinda mucho espíritu e identidad a la página.
+
+>Es muy útil que la barra de navegación se mantenga estática en la parte superior
+
+>La página se comporta correctamente en todos los dispositivos y aspectos de tamaño probados
+
+>Lamentablemente el código está sin indentar y bastante desorganizado. No es fácil de leer.
+
+>La página carece de elementos multimedia y/o visuales. Un par de imágenes no le vendrían mal.
