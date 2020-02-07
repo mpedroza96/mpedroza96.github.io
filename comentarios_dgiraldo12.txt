@@ -1,0 +1,3 @@
+- El menu de navegación desaparece en pantallas pequeñas y se vuelve imposible navegar
+- Faltan fotos y audio
+- Agregarle iconos podría ser una manera fácil de que no haya tanto texto 
