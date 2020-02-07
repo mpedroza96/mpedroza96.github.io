@@ -1,0 +1,7 @@
+Estética:
+Seria interesante agregar mas colores a la aplicación.
+Sería interesante que en la barra de navegación estuviera resanada la sección en la que te encuentras.
+El footer tiene una letra muy grande que lo resalta más de lo deseado.
+Diseño:
+En el archivo index.html el código no esta bien organizado en el sentido de que no están alineados correctamente.
+Seria interesante poner comentarios en el código que declararan las distintas secciones.
